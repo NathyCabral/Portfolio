@@ -698,9 +698,9 @@ h2:after {
 
 }
 
-.ferramentas-card h3{
-   color: #7247d0;
-   margin-top: 1em;
+.ferramentas-card h3 {
+    color: #7247d0;
+    margin-top: 1em;
 
 }
 
@@ -1074,6 +1074,8 @@ form button {
 
     .ferramentas-section {
         margin: 0;
+        display: flex;
+        flex-wrap: wrap;
     }
 
     .ferramentas-icon {
@@ -1088,22 +1090,23 @@ form button {
     /*  projetos na seção de projetos */
 
     #projetos {
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 20px;
         padding: 0;
-        margin-top: 7rem;
-
+        margin-top: 2rem; 
     }
 
-    .projeto-grid {
+    .projeto-card-novo{
         grid-template-columns: repeat(2, 1fr);
     }
-
+    
     .projeto-card {
         width: 100%;
         margin: 0 auto 20px;
     }
+    
+    
 
     /* formulário de contato */
     .container#forms {
@@ -1186,6 +1189,32 @@ form button {
         }
     }
 
+    .contact-header {
+        color: white;
+        position: absolute;
+        transform: rotate(-90deg);
+        top: 120px;
+        left: -9px;
+    }
 
+    .contact-header h1 {
+        font-size: 1rem;
+    }
+
+    .contact-us {
+        position: relative;
+        width: 62px;
+        background: #7D84FF;
+        overflow: hidden;
+    }
+
+    form {
+        width: 290px;
+    }
+
+
+    form button {
+        left: 21px;
+    }
 
 }
