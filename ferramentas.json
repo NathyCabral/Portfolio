@@ -1,0 +1,50 @@
+[
+    {
+      "id": "blue",
+      "icon": "./img/html.svg",
+      "title": "HTML",
+      "description": ""
+    },
+    {
+      "id": "yellow",
+      "icon": "./img/css.svg",
+      "title": "CSS",
+      "description": ""
+    },
+    {
+      "id": "red",
+      "icon": "./img/javascript.svg",
+      "title": "JavaScript",
+      "description": ""
+    },
+    {
+      "id": "purple",
+      "icon": "./img/figma.svg",
+      "title": "Figma",
+      "description": ""
+    },
+    {
+      "id": "green",
+      "icon": "./img/react.svg",
+      "title": "React.js",
+      "description": ""
+    },
+    {
+      "id": "orange",
+      "icon": "./img/styledcomponents.svg",
+      "title": "CSS-in-JS",
+      "description": ""
+    },
+    {
+      "id": "pink",
+      "icon": "./img/typescript.svg",
+      "title": "TypeScript",
+      "description": ""
+    },
+    {
+      "id": "brown",
+      "icon": "./img/django.png",
+      "title": "Django",
+      "description": ""
+    }
+]
