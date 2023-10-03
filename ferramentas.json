@@ -35,16 +35,6 @@
       "title": "CSS-in-JS",
       "description": ""
     },
-    {
-      "id": "pink",
-      "icon": "./img/typescript.svg",
-      "title": "TypeScript",
-      "description": ""
-    },
-    {
-      "id": "brown",
-      "icon": "./img/django.png",
-      "title": "Django",
-      "description": ""
-    }
+   
+  
 ]
