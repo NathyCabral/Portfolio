@@ -1041,6 +1041,16 @@ form button {
         font-size: 28px;
     }
 
+    section#home img {
+        width: 70%;
+    }
+
+    .social-icons2{
+        display: flex;
+        margin-left: 10rem;
+        margin-top: 3rem;
+        width: 20%;
+    }
 
 
     /*imagem do perfil */
