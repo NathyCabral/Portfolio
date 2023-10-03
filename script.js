@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     card.innerHTML = `
       <h3>${projeto.titulo}</h3>
       <img src="${projeto.imagem}" alt="${projeto.titulo}" />
-      <a href="${projeto.site}" target="_blank" >Site do Projeto</a>
+      <a href="${projeto.site}" target="_blank">Site do Projeto</a>
       <a href="${projeto.github}" target="_blank">Documentação no Github</a>
     `;
   
