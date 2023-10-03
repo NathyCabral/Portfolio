@@ -42,29 +42,5 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
 
-  // Cards das ferramentas
-  
-document.addEventListener("DOMContentLoaded", function () {
-    fetch("ferramentas.json")
-      .then((response) => response.json())
-      .then((data) => {
-        const ferramentasSection = document.querySelector(".ferramentas-section");
-  
-        data.forEach((ferramenta) => {
-          const card = document.createElement("div");
-          card.classList.add("col-md-4");
-          card.innerHTML = `
-            <div class="ferramentas-card" id="${ferramenta.id}">           
-              <h3 class="ferramentas-titulo">${ferramenta.title}</h3>
-              <img class="img-icon" src="${ferramenta.icon}" alt="${ferramenta.title}">
-              <img class="img-icon">              
-            </div>
-          `;
-          ferramentasSection.appendChild(card);
-        });
-      })
-      .catch((error) => {
-        console.error("Erro ao carregar os dados das ferramentas:", error);
-      });
-  });
+
   
