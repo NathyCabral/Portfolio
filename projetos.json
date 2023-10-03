@@ -1,39 +1,39 @@
 [
     {
-      "titulo": "Projeto ODS - Energia Limpa",
-      "imagem": "./img/ods-1.png",
-      "site": "#",
-      "github": "https://github.com/NathyCabral"
-    },
-    {
-      "titulo": "Projeto ODS 2 - Energia Limpa",
-      "imagem": "./img/ods-2.png",
-      "site": "#",
-      "github": "#"
-    },
-    {
       "titulo": "Projeto Cardápio",
-      "imagem": "./img/react-1.png",
-      "site": "#",
-      "github": "#"
+      "imagem": "./img/2-cardapio.png",
+      "site": "https://nathycabral.github.io/Cardapio-/",
+      "github": "https://github.com/NathyCabral/Cardapio-"
     },
     {
-      "titulo": "Projeto Calculando com Js",
-      "imagem": "./img/ods-1.png",
-      "site": "#",
-      "github": "#"
+      "titulo": "Mulheres que Inspiram",
+      "imagem": "./img/1-ada.png",
+      "site": "https://nathycabral.github.io/mulher-que-inspira/",
+      "github": "https://github.com/NathyCabral/mulher-que-inspira"
     },
     {
-      "titulo": "Projeto Pokedex",
-      "imagem": "./img/ods-1.png",
-      "site": "#",
-      "github": "#"
+      "titulo": "Calculadora Composta",
+      "imagem": "./img/6-calcul.png",
+      "site": "https://nathycabral.github.io/calculadora-composta/",
+      "github": "https://github.com/NathyCabral/calculadora-composta"
     },
     {
-      "titulo": "Lista de Tarefas",
-      "imagem": "./img/ods-1.png",
-      "site": "#",
-      "github": "#"
+      "titulo": "Pokedex",
+      "imagem": "./img/4-poke.png",
+      "site": "https://nathycabral.github.io/pokedex/",
+      "github": "https://github.com/NathyCabral/pokedex"
+    },
+    {
+      "titulo": "Jogo da velha",
+      "imagem": "./img/5-velha.png",
+      "site": "https://nathycabral.github.io/game-tictactoe/",
+      "github": "https://github.com/NathyCabral/game-tictactoe"
+    },
+    {
+      "titulo": "Jogo da memória",
+      "imagem": "./img/3-memo.png",
+      "site": "https://nathycabral.github.io/jogo-da-memoria/",
+      "github": "https://github.com/NathyCabral/jogo-da-memoria"
     }
   ]
   
